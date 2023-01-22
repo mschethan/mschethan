@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mschethan
 - 👀 I’m interested in coding
-- I’m currently learning python 👨‍💻
+- I’m currently learning python, Reactjs and Java 👨‍💻
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - mschethan31@gmail.com
 
